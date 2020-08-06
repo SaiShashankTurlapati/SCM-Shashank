@@ -1,4 +1,5 @@
 #!/bin/bash
+#this program will loop for 5 times
 valid=true
 count=1
 while [ $valid ]
